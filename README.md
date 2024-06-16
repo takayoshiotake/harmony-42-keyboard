@@ -8,7 +8,7 @@ A 42-key keyboard.
 
 Concept image:
 
-<img src="layout/concept.svg" style="background: #1f1f1f; box-shadow: rgb(0,0,0,0.5) 0px 0px 12px; border-radius: 12px;" />
+![](layout/concept.svg)
 
 ## License
 
