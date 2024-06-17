@@ -4,11 +4,23 @@
 
 A 42-key keyboard.
 
-## Layout
-
-Concept image:
+## Concept
 
 ![](layout/concept.svg)
+
+## Layout
+
+v0.1.0
+
+![](layout/keyboard-layout.png)
+
+- width: 14u
+- depth: <6u
+
+Made with Python script: 📁 [editor](layout/editor)
+
+- 📄 [locations.csv](layout/locations.csv)
+- 📄 [keyboard-layout.rawdata.json](layout/keyboard-layout.rawdata.json)
 
 ## License
 
