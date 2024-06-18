@@ -403,6 +403,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 64.77 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -560,6 +561,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 52.07 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -637,6 +639,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 77.47 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -714,6 +717,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 90.17 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1031,6 +1035,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 26.67 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1268,6 +1273,7 @@
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 39.37 22.86 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
