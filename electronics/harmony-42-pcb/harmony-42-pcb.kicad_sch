@@ -327,10 +327,28 @@
 		)
 	)
 	(junction
+		(at 137.16 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0380d255-c402-42bb-8d92-5ca7ad55742d")
+	)
+	(junction
 		(at 35.56 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0810d96d-7e43-4d17-8894-0302a797599a")
+	)
+	(junction
+		(at 48.26 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08b40a49-3e4e-4978-91c8-dd0cb2ceeb70")
+	)
+	(junction
+		(at 124.46 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09d8e229-f2b7-479a-abaf-00b924700867")
 	)
 	(junction
 		(at 48.26 30.48)
@@ -339,16 +357,204 @@
 		(uuid "0ff01f4c-5861-4d74-b0a7-44bcb83c26b1")
 	)
 	(junction
+		(at 86.36 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ded2804-e4f5-4c4a-8689-89e3cf886ca3")
+	)
+	(junction
+		(at 111.76 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "303518e5-e8b5-423e-bfd0-c67e9a6ece36")
+	)
+	(junction
+		(at 137.16 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37188c12-09bf-43c6-9df8-f04b60a5ce99")
+	)
+	(junction
+		(at 149.86 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bb2f01b-874b-4206-8e11-468bb5bf9ef6")
+	)
+	(junction
+		(at 162.56 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48b66d3d-b613-4792-8377-b59eac313252")
+	)
+	(junction
+		(at 111.76 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a601c01-ac4c-4bec-81fe-5bd954f5ac20")
+	)
+	(junction
+		(at 73.66 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50138c62-38d3-4771-bf66-5156f1ae8ba7")
+	)
+	(junction
+		(at 162.56 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "546d867c-b7e8-44f8-9218-c13246ef4730")
+	)
+	(junction
+		(at 35.56 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "751b8eda-d004-4ba4-ba34-ce65c8e9cba5")
+	)
+	(junction
+		(at 124.46 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9201c6f4-e16e-4842-bf08-bdd9f4ca6fd5")
+	)
+	(junction
+		(at 149.86 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a265acf9-16da-4c0c-855c-01a075badb86")
+	)
+	(junction
+		(at 86.36 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa0df18f-baad-448d-a8be-2ee3415a9b58")
+	)
+	(junction
 		(at 73.66 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad39f09f-b8c2-4960-bd78-02e46417c477")
 	)
 	(junction
+		(at 60.96 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4269f07-36e8-4fc6-a4e9-93b224e102b7")
+	)
+	(junction
 		(at 60.96 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd573807-e09e-4880-a025-649563576b39")
+	)
+	(wire
+		(pts
+			(xy 111.76 30.48) (xy 124.46 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0add1c36-30f6-4179-80f0-0611a67313bf")
+	)
+	(wire
+		(pts
+			(xy 35.56 48.26) (xy 48.26 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14bafc76-6bba-434d-9ca4-51388556048d")
+	)
+	(wire
+		(pts
+			(xy 60.96 48.26) (xy 73.66 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1abd8261-bf40-46de-9a16-daddc3d3173a")
+	)
+	(wire
+		(pts
+			(xy 73.66 48.26) (xy 86.36 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e2fcab6-72ee-4930-b929-5584ee80da29")
+	)
+	(wire
+		(pts
+			(xy 22.86 48.26) (xy 35.56 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f24eccc-c4ad-4e43-a3b3-efc3a64f330f")
+	)
+	(wire
+		(pts
+			(xy 149.86 48.26) (xy 162.56 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21a0cdb4-7458-43d1-a1f8-306b9ae7fe49")
+	)
+	(wire
+		(pts
+			(xy 149.86 30.48) (xy 162.56 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21c68183-e5c1-4e1a-91d6-e1d2025df0f3")
+	)
+	(wire
+		(pts
+			(xy 137.16 48.26) (xy 149.86 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fdacd1e-e795-4422-a666-d884efd0bc8e")
+	)
+	(wire
+		(pts
+			(xy 162.56 30.48) (xy 175.26 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41e3c163-477e-4109-83de-158f55a882d4")
+	)
+	(wire
+		(pts
+			(xy 111.76 48.26) (xy 124.46 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51f3cac2-4655-4978-a893-921737d69255")
+	)
+	(wire
+		(pts
+			(xy 48.26 48.26) (xy 60.96 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f6eabe0-92ba-480c-8d33-3db1c524d413")
 	)
 	(wire
 		(pts
@@ -372,6 +578,26 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 30.48) (xy 137.16 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68c2926b-201f-49cc-8205-f3ae8f3a2fbc")
+	)
+	(wire
+		(pts
+			(xy 86.36 30.48) (xy 111.76 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ca53a5f-92dc-4590-b1bd-5c7dd8f442f0")
+	)
+	(wire
+		(pts
 			(xy 35.56 30.48) (xy 48.26 30.48)
 		)
 		(stroke
@@ -379,6 +605,16 @@
 			(type default)
 		)
 		(uuid "a1ef8890-fbb0-4cf1-a8c5-ecad2ba48240")
+	)
+	(wire
+		(pts
+			(xy 162.56 48.26) (xy 175.26 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4611b9e-2016-486d-a458-2123898df490")
 	)
 	(wire
 		(pts
@@ -392,6 +628,26 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 48.26) (xy 137.16 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b36fd123-08bf-4b02-bca9-f41a49722387")
+	)
+	(wire
+		(pts
+			(xy 86.36 48.26) (xy 111.76 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce5eb1f0-6e92-4cb7-a6e5-e1655edf5fce")
+	)
+	(wire
+		(pts
 			(xy 22.86 30.48) (xy 35.56 30.48)
 		)
 		(stroke
@@ -399,6 +655,96 @@
 			(type default)
 		)
 		(uuid "ed988393-892f-4894-b911-15c85bc13187")
+	)
+	(wire
+		(pts
+			(xy 137.16 30.48) (xy 149.86 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6317ef7-0169-44bb-9ad6-dc3019dd4fe2")
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 175.26 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0acb5afd-f6ac-4ea6-a77f-1f906f878bdb")
+		(property "Reference" "D24"
+			(at 177.8 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 177.8 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 179.705 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7df44fb3-b88b-4061-9101-ec28e2539949")
+		)
+		(pin "2"
+			(uuid "d3028cc0-50b0-4b6c-b00a-23d302651f3b")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
@@ -473,6 +819,86 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 149.86 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bded349-a1e0-44ff-b4c3-18dde64104a5")
+		(property "Reference" "D22"
+			(at 152.4 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 152.4 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 154.305 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 149.86 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 149.86 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6af9ed6-9d90-4c43-b681-1b1b90d484d6")
+		)
+		(pin "2"
+			(uuid "04749621-2be1-43ac-8619-4eb69420692b")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -560,6 +986,164 @@
 	)
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 166.37 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "21052381-bd4e-4993-94bd-544bb6b269e5")
+		(property "Reference" "SW23"
+			(at 166.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 166.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 166.37 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 166.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 166.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "610fd8c5-1045-4b06-ba19-d6f35c5bb015")
+		)
+		(pin "2"
+			(uuid "06190794-1d95-4de4-b9a9-2eb36bc37e20")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 137.16 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "284a43c9-9c6a-4e43-8337-ce63334231ae")
+		(property "Reference" "D21"
+			(at 139.7 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 139.7 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 141.605 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68a35023-9bc8-4470-94d6-605912e5b634")
+		)
+		(pin "2"
+			(uuid "68453a91-270d-46c8-8036-f7ff6e29f9f4")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 52.07 22.86 0)
 		(mirror y)
 		(unit 1)
@@ -631,6 +1215,162 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 179.07 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b7d5506-b0b3-4690-a4ff-bfde7756d001")
+		(property "Reference" "SW12"
+			(at 179.07 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 179.07 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 179.07 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 179.07 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 179.07 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5cf0755c-a572-4508-97a6-fe804eaba933")
+		)
+		(pin "2"
+			(uuid "d0542afe-a8f6-4adc-8c3a-b6836528b4b0")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 140.97 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c15d4c2-5e55-4814-bf7c-fd65c96f04bb")
+		(property "Reference" "SW21"
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 140.97 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 140.97 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53cb1227-eb62-453e-a139-cd36e7b43268")
+		)
+		(pin "2"
+			(uuid "071ed669-c067-473d-9237-50d65fe2241c")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -794,6 +1534,484 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WS")
+		(at 162.56 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4844ae94-cecf-47c2-a601-5ced7e0da61f")
+		(property "Reference" "D11"
+			(at 165.1 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 165.1 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 167.005 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 162.56 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 162.56 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d28982a6-fc6a-4959-a399-34bd9197224f")
+		)
+		(pin "2"
+			(uuid "14981a2b-c452-4604-b50a-8231bdf83b6f")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 128.27 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4bfff745-ac69-45eb-9394-2bfe1bf7dc0f")
+		(property "Reference" "SW20"
+			(at 128.27 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 128.27 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 128.27 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 128.27 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e2d86e8-71de-4297-982f-6a805eca91f5")
+		)
+		(pin "2"
+			(uuid "caa39baa-e940-4522-a729-f97efe4cb0b7")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 124.46 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50016510-178e-4d13-bf04-318d6441d052")
+		(property "Reference" "D8"
+			(at 127 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 128.905 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 124.46 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 124.46 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b0cc8eb-72fa-49d3-9df7-7a4b7414dc6e")
+		)
+		(pin "2"
+			(uuid "60c4a89b-c469-42fb-a79a-383ea0ba2702")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 48.26 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68787bc8-fdb2-450f-ab95-ab3b19d4080e")
+		(property "Reference" "D15"
+			(at 50.8 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 50.8 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 52.705 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 48.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 48.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0d38234-c4d2-44aa-84b0-b849b85f0792")
+		)
+		(pin "2"
+			(uuid "b27648cd-059f-4398-b455-57befa26ffad")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 162.56 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d4e442e-0b69-475e-8c3c-b997254ef182")
+		(property "Reference" "D23"
+			(at 165.1 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 165.1 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 167.005 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 162.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 162.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02422c0a-07bb-4052-94f6-0b191c56256d")
+		)
+		(pin "2"
+			(uuid "7fe218a6-2eec-44e6-bc60-f3260ac1c7b0")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 111.76 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7144be34-9115-4c07-a651-516b86bc2f10")
+		(property "Reference" "D7"
+			(at 114.3 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 114.3 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 116.205 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 111.76 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4dbdb21d-b73c-48fe-9cab-93ea17f0c03f")
+		)
+		(pin "2"
+			(uuid "a4ad8e5d-6fda-402d-8434-3512f7bceb5d")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
 		(at 60.96 26.67 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -867,6 +2085,242 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 26.67 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "84f37d5f-a6e0-4dde-8787-0e1e9293faba")
+		(property "Reference" "SW13"
+			(at 26.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 26.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 26.67 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 26.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 26.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83c591c7-d9ed-4cc8-9ec9-6b0706a4fe37")
+		)
+		(pin "2"
+			(uuid "4d8369bb-5082-4a27-b0fe-7b8f5edc12bb")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 128.27 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "869293f3-267c-4376-bf89-761eeb5200d6")
+		(property "Reference" "SW8"
+			(at 128.27 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 128.27 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 128.27 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 128.27 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "598da8be-9bc3-4644-a486-d9fb5b04e1d4")
+		)
+		(pin "2"
+			(uuid "0ed27ea1-3e1a-41bb-a164-5023e0817c10")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 175.26 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c6fec69-3662-451c-940f-8059d3477762")
+		(property "Reference" "D12"
+			(at 177.8 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 177.8 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 179.705 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 175.26 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 175.26 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3520775-b45a-4c3d-b41c-f11bfcfacb3f")
+		)
+		(pin "2"
+			(uuid "9a73be5a-d2de-4d5d-889d-32f4a3ed00c3")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -947,6 +2401,716 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 115.57 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "92f8099a-31a1-4d43-b47e-6d925ce6b65f")
+		(property "Reference" "SW19"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 115.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3233efef-8eac-474e-82d4-2573c91dd7b9")
+		)
+		(pin "2"
+			(uuid "e4992eb7-71b9-4200-bb56-2c5ff86c0258")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 149.86 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "939c43d6-b8ff-4261-8ec1-5465409c33d4")
+		(property "Reference" "D10"
+			(at 152.4 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 152.4 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 154.305 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 149.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 149.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f494699b-7f33-4a02-a37a-ef575bbe66f0")
+		)
+		(pin "2"
+			(uuid "d99cf420-2556-4bfc-987c-ce3f714c1721")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 140.97 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9452d5f1-728a-4a4d-b377-36848f548079")
+		(property "Reference" "SW9"
+			(at 140.97 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 140.97 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 140.97 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 140.97 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "696ac5af-e812-4042-9e39-3a5d555b0e23")
+		)
+		(pin "2"
+			(uuid "792eaf00-8485-42d6-9304-4e95638cf809")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 137.16 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99e433e5-8f27-4fd4-baf1-44d87a85579d")
+		(property "Reference" "D9"
+			(at 139.7 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 139.7 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 141.605 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 137.16 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 137.16 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e92e34c2-271b-42b0-bc16-b569002cb3aa")
+		)
+		(pin "2"
+			(uuid "48bda4d5-5694-4a06-be47-9e3c565271a9")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 166.37 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c2b2b8d-43b2-4c0f-a1ac-f48710959441")
+		(property "Reference" "SW11"
+			(at 166.37 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 166.37 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 166.37 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 166.37 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 166.37 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de3e14d8-2aaa-43a0-a30c-203987237958")
+		)
+		(pin "2"
+			(uuid "58fa6a2c-d353-4ba2-92ec-d49f1219ac34")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 64.77 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9e937fc-c0e7-41d5-b919-78d515b0ec36")
+		(property "Reference" "SW16"
+			(at 64.77 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 64.77 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 64.77 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ffc833d-fa0b-431a-8e59-4e196af079d8")
+		)
+		(pin "2"
+			(uuid "cae1bf86-6524-43a1-826e-0c12104a6f0e")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 39.37 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad0c54e3-b025-4168-8966-e72ba8612dca")
+		(property "Reference" "SW14"
+			(at 39.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 39.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 39.37 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 39.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7f5c84c-c27d-4c9b-84da-947d8ffe39cc")
+		)
+		(pin "2"
+			(uuid "3f6a179e-5091-45b6-bcd1-d82b0217b727")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 22.86 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "adff3bdc-ae70-41ae-89d1-76583290f235")
+		(property "Reference" "D13"
+			(at 25.4 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 25.4 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 27.305 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 22.86 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 22.86 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 22.86 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20e7b568-ae26-4d16-88e6-26176cd0eabc")
+		)
+		(pin "2"
+			(uuid "b286d0d6-b037-4b97-8c06-776672f2ab7c")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 35.56 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0ec5b76-d089-4def-aa49-820194f5e77d")
+		(property "Reference" "D14"
+			(at 38.1 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 38.1 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 40.005 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 35.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 35.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1747f508-be8b-4593-a65b-5d9a63978195")
+		)
+		(pin "2"
+			(uuid "03150446-c19e-4b2b-beb6-51282fc1f426")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -1034,6 +3198,84 @@
 	)
 	(symbol
 		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 153.67 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7fa2dab-444e-4a08-ac17-8ca7bed1f870")
+		(property "Reference" "SW10"
+			(at 153.67 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 153.67 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 153.67 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "042c2b8c-e301-4246-9aa1-98d3b124ffdd")
+		)
+		(pin "2"
+			(uuid "3bc75c6c-b2ce-4c4d-a6de-8bd6c5065b9a")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
 		(at 26.67 22.86 0)
 		(mirror y)
 		(unit 1)
@@ -1105,6 +3347,640 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 77.47 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca37faec-6271-4210-8782-c4791b2b2097")
+		(property "Reference" "SW17"
+			(at 77.47 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 77.47 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 77.47 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 77.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01fcd911-67ce-4ed0-94fc-9919358738fa")
+		)
+		(pin "2"
+			(uuid "e3d06792-09e6-4901-a2ef-027bb79d9011")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 73.66 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0c23dbf-f525-4e52-a045-4012701b798c")
+		(property "Reference" "D17"
+			(at 76.2 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 76.2 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 78.105 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4418ac24-b4ae-4454-a996-d30780019c41")
+		)
+		(pin "2"
+			(uuid "748d3bda-831b-414b-ac68-5db9fbef689a")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 124.46 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9186a46-fc2c-4207-8a43-7bafaa256bb6")
+		(property "Reference" "D20"
+			(at 127 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 127 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 128.905 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 124.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 124.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6dbc404-1fab-43d0-ba41-0a7859250e65")
+		)
+		(pin "2"
+			(uuid "9b6086ab-bc64-44f2-856f-90c33eaba7ae")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 60.96 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9a3986d-d91c-48d3-8767-5c7e2adeaebe")
+		(property "Reference" "D16"
+			(at 63.5 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 63.5 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 65.405 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 60.96 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 60.96 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53327b75-756b-4886-b268-946a0bcf5af9")
+		)
+		(pin "2"
+			(uuid "682496ff-b293-4c99-b552-0ec5109b3b48")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 86.36 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1fdaf61-8518-466b-a283-6fe670648799")
+		(property "Reference" "D18"
+			(at 88.9 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 88.9 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 90.805 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 86.36 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 86.36 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13778f51-f4a5-4dbd-b3ed-31bb9e71df19")
+		)
+		(pin "2"
+			(uuid "2241d10c-d77b-4054-94c5-ecf68be5dc47")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WS")
+		(at 111.76 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e50ee5b1-98d9-4e65-aa2d-18dd37d6cc12")
+		(property "Reference" "D19"
+			(at 114.3 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WS"
+			(at 114.3 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:D_SOD-323F"
+			(at 116.205 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
+			(at 111.76 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
+			(at 111.76 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e609b694-8aee-4623-a28b-7ae58d590494")
+		)
+		(pin "2"
+			(uuid "60c28fb0-ac3d-480d-a677-50286651223f")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 179.07 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e71c3495-10e3-488e-b602-0802fc8d4e86")
+		(property "Reference" "SW24"
+			(at 179.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 179.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 179.07 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "609548a4-66f7-400c-aaf7-2e30b048af7e")
+		)
+		(pin "2"
+			(uuid "9d1cf050-9f37-47cb-b0ab-57e6bd52cc5c")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 115.57 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea7aec7e-cffd-4ff8-9396-8591f24d6266")
+		(property "Reference" "SW7"
+			(at 115.57 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 115.57 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 115.57 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a134b8a8-5755-4877-921a-589c64b6c5ff")
+		)
+		(pin "2"
+			(uuid "df2c79fb-589c-456c-acc0-094dc4862ef2")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -1185,6 +4061,240 @@
 			(project "harmony-42-pcb"
 				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 52.07 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5e453a1-0c05-4872-82e7-41c44f8edeed")
+		(property "Reference" "SW15"
+			(at 52.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 52.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 52.07 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 52.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbc4434d-553a-4f81-8d9b-b5a3479b0d05")
+		)
+		(pin "2"
+			(uuid "cb641ca7-69f2-4329-b413-13d0e163d882")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 153.67 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7b3603b-ac58-4180-99be-ce929706ade3")
+		(property "Reference" "SW22"
+			(at 153.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 153.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 153.67 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 153.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2aa0c291-fc33-4e4d-9d13-a76a4dd825bb")
+		)
+		(pin "2"
+			(uuid "68c80533-7d05-452b-a502-4e8e08f1405c")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:SW_Hot_Swap_Socket")
+		(at 90.17 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8bffceb-70f2-4d5f-937b-1bb83bf45aa4")
+		(property "Reference" "SW18"
+			(at 90.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 90.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Project_Library:Hot_Swap_Socket_CPG151101S11"
+			(at 90.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.17 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 90.17 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a06cf428-c5d3-42f3-819f-71401aafde29")
+		)
+		(pin "2"
+			(uuid "45f89d81-20a5-4d33-8deb-7f1f90e0e4c7")
+		)
+		(instances
+			(project "harmony-42-pcb"
+				(path "/63e21dfa-244d-47a2-af41-6be2a3c016ea"
+					(reference "SW18")
 					(unit 1)
 				)
 			)
