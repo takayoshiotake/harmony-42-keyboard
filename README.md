@@ -2,6 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![KiCad][kicad-shield]][kicad]
+[![Vial][vial-shield]][vial]
 
 A 42-key keyboard.
 
@@ -36,6 +37,15 @@ KiCad files:
 - 📄 [harmony-42-pcb.kicad_sch](electronics/harmony-42-pcb/harmony-42-pcb.kicad_sch) (v1.0.0)
 - 📄 [harmony-42-pcb.kicad_pcb](electronics/harmony-42-pcb/harmony-42-pcb.kicad_pcb) (v1.0.0)
 
+## Firmware
+
+### Vial
+
+- Built UF2
+    - 📄 [takayoshiotake_harmony_42_vial_20240714.uf2](vial-bin/takayoshiotake_harmony_42_vial_20240714.uf2)
+
+See [vial-porting](vial-porting) for more details.
+
 ## License
 
 This work is licensed under a
@@ -49,3 +59,6 @@ This work is licensed under a
 
 [kicad]: https://www.kicad.org/
 [kicad-shield]: https://img.shields.io/badge/KiCad-314CB0.svg
+
+[vial]: https://get.vial.today/
+[vial-shield]: https://img.shields.io/badge/Vial-03045E.svg
