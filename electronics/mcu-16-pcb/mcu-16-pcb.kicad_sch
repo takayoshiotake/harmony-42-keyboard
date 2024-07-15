@@ -4355,7 +4355,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 127) (xy 35.56 129.54)
+			(xy 43.18 127) (xy 43.18 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4660,7 +4660,7 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 162.56 144.78 0)
+		(at 162.56 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4670,7 +4670,7 @@
 		)
 		(uuid "0b8b8f3d-f397-4058-836d-c8f22deb49ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.8066 144.78 0)
+			(at 170.8066 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4858,7 +4858,7 @@
 	)
 	(global_label "ROW0"
 		(shape input)
-		(at 162.56 149.86 0)
+		(at 162.56 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4868,7 +4868,7 @@
 		)
 		(uuid "5b318ea2-2a98-4efe-8a54-4192b8bba41a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.8066 149.86 0)
+			(at 170.8066 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6915,7 +6915,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 129.54 0)
+		(at 43.18 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6924,7 +6924,7 @@
 		(fields_autoplaced yes)
 		(uuid "4721b2e0-b4ce-4ca6-977f-cc8c0995157e")
 		(property "Reference" "#PWR04"
-			(at 35.56 135.89 0)
+			(at 43.18 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6933,7 +6933,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 134.62 0)
+			(at 43.18 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6942,7 +6942,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 129.54 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6951,7 +6951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 129.54 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6960,7 +6960,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 129.54 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
