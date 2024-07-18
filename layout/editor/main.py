@@ -33,6 +33,12 @@ with open("out/locations.csv", "w") as f:
         print(f"{loc.r}, {loc.cx}, {loc.cy}", file=f)
     print(f"Written: {f.name}")
 
+with open("out/locations-pcb.csv", "w") as f:
+    print("r, cx, cy", file=f)
+    for loc in locations:
+        print(f"{loc.r}, {(loc.cx + 2) * 19.05}, {(loc.cy + 2) * 19.05}", file=f)
+    print(f"Written: {f.name}")
+
 kle_locations = list(map(lambda it: kls.KleLocation.from_center(it), locations))
 
 with open("out/keyboard-layout.rawdata.json", "w") as f:
