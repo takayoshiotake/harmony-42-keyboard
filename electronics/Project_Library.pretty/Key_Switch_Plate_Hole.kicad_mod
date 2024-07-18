@@ -1,0 +1,178 @@
+(footprint "Key_Switch_Plate_Hole"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "MX compatible switch with hot swap socket")
+	(property "Reference" "REF**"
+		(at 0.635 3.937 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "55e740a3-0735-4744-896e-2bf5437093b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Plate Hole"
+		(at 0.635 -10.557 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4f99e3d-7269-4f6a-a759-16ad2a258779")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67e015a6-0e45-4952-8032-2293a0eb5756")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb84f16e-3986-4755-b5f9-157927fc2018")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ffa77be0-a1f4-40fb-a6fa-d19a70b623b8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.365 2.89)
+		(end -6.365 -10.51)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "94929e3b-2586-459e-a4c0-fb2138313921")
+	)
+	(fp_line
+		(start -6.065 -10.81)
+		(end 7.335 -10.81)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9bae4300-0110-4145-898e-7b904ff0882d")
+	)
+	(fp_line
+		(start 7.335 3.19)
+		(end -6.065 3.19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "666b8970-c18b-4f05-b463-0bccede0a435")
+	)
+	(fp_line
+		(start 7.635 -10.51)
+		(end 7.635 2.89)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "406777fd-1409-48fc-9ece-dc5d50c8fd8e")
+	)
+	(fp_arc
+		(start -6.365 -10.51)
+		(mid -6.277132 -10.722132)
+		(end -6.065 -10.81)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ad2a2893-0e59-46e1-8e89-c2cfd178d0a3")
+	)
+	(fp_arc
+		(start -6.065 3.19)
+		(mid -6.277132 3.102132)
+		(end -6.365 2.89)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "159ca3d0-0e90-4cd6-80b9-75c61036b60d")
+	)
+	(fp_arc
+		(start 7.335 -10.81)
+		(mid 7.547132 -10.722132)
+		(end 7.635 -10.51)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8930aa27-8df8-468a-8087-65e3b63776a2")
+	)
+	(fp_arc
+		(start 7.635 2.89)
+		(mid 7.547132 3.102132)
+		(end 7.335 3.19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6cf5bcb9-9bb2-41f0-b242-afd16bf638a3")
+	)
+	(fp_rect
+		(start 10.16 5.715)
+		(end -8.89 -13.335)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "5e55078b-97af-4c80-838b-eaf4f630bb7a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.635 3.937 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c022004a-c968-410e-b59e-fbab0e561e9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
