@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.2)
+		(thickness 1.6)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -56,7 +56,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 1.11)
+				(thickness 1.51)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -8596,7 +8596,7 @@
 		(descr "SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U1"
-			(at 0 -2.8 360)
+			(at 0 -2.8 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "29ceaab9-e4a2-4fc1-a3de-07d0bc0ff64f")
@@ -8608,7 +8608,7 @@
 			)
 		)
 		(property "Value" "AP2112K-3.3"
-			(at 0 2.8 360)
+			(at 0 2.8 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0b37a16f-7877-48f7-86ed-aff3e4749cb0")
@@ -8620,7 +8620,7 @@
 			)
 		)
 		(property "Footprint" "Project_Library:SOT-23-5"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1787bb04-8e7b-4dca-84a8-fcb140a12c96")
@@ -8632,7 +8632,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a9a14ccc-e836-44bc-ba1d-49ba4bbe78da")
@@ -8644,7 +8644,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fce20767-a56c-4c6d-9509-457b5ac15475")
@@ -8804,7 +8804,7 @@
 			(uuid "69176d05-6f0c-404e-bf9c-73f79b73b0ea")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8a27dfd6-f1e2-44d6-b26e-bda50e4eea4c")
 			(effects
