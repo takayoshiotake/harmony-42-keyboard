@@ -26,23 +26,29 @@ Made with Python script: 📁 [editor](layout/editor)
 
 ## Schematic and PCB
 
-![schematic svg](assets/schematic.svg)
+![schematic svg](assets/pcb_schematic.svg)
 
 ![pcb png](assets/pcb_t.png)
 
 ![pcb png](assets/pcb_b.png)
 
+![schematic svg](assets/mcu_schematic.svg)
+
+![pcb png](assets/mcu_t.png)
+
 KiCad files:
 
 - 📄 [harmony-42-pcb.kicad_sch](electronics/harmony-42-pcb/harmony-42-pcb.kicad_sch) (v1.0.0)
 - 📄 [harmony-42-pcb.kicad_pcb](electronics/harmony-42-pcb/harmony-42-pcb.kicad_pcb) (v1.0.0)
+- 📄 [mcu-16-pcb.kicad_sch](electronics/mcu-16-pcb/mcu-16-pcb.kicad_sch) (v1.0.0)
+- 📄 [mcu-16-pcb.kicad_pcb](electronics/mcu-16-pcb/mcu-16-pcb.kicad_pcb) (v1.0.0)
 
 ## Firmware
 
 ### Vial
 
 - Built UF2
-    - 📄 [takayoshiotake_harmony_42_vial_20240714.uf2](vial-bin/takayoshiotake_harmony_42_vial_20240714.uf2)
+    - 📄 [takayoshiotake_harmony_42_vial_20240726.uf2](vial-bin/takayoshiotake_harmony_42_vial_20240726.uf2)
 
 See [vial-porting](vial-porting) for more details.
 
