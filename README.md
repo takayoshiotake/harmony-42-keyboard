@@ -6,8 +6,6 @@
 
 A 42-key keyboard.
 
-This keyboard uses "Five Octave MCU Board". You can find additional information at [this link](https://github.com/takayoshiotake/five-octave-61-key-keyboard).
-
 ## Concept
 
 ![](layout/concept.svg)
