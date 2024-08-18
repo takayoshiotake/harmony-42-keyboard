@@ -6,6 +6,11 @@
 
 A 42-key keyboard.
 
+![](gallery/001.jpg)
+
+- Switch: TTC Frozen V2
+- Keycap: StarryPoem + HIBI Artisan
+
 ## Concept
 
 ![](layout/concept.svg)
