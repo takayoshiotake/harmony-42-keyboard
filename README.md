@@ -1,6 +1,8 @@
 # Harmony 42
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![FreeCAD][freecad-shield]][freecad]
+[![Inkscape][inkscape-shield]][inkscape]
 [![KiCad][kicad-shield]][kicad]
 [![Vial][vial-shield]][vial]
 
@@ -69,6 +71,8 @@ Files:
 
 - Built UF2
     - 📄 [takayoshiotake_harmony_42_vial_20240726.uf2](vial-bin/takayoshiotake_harmony_42_vial_20240726.uf2)
+- Code
+    - 🔗 <https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/takayoshiotake/harmony_42>
 
 See [vial-porting](vial-porting) for more details.
 
@@ -82,6 +86,12 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey.svg
+
+[freecad]: https://www.freecad.org/
+[freecad-shield]: https://img.shields.io/badge/FreeCAD-gray.svg?logo=freecad
+
+[inkscape]: https://inkscape.org/
+[inkscape-shield]: https://img.shields.io/badge/Inkscape-gray.svg?logo=inkscape&logoColor=000000
 
 [kicad]: https://www.kicad.org/
 [kicad-shield]: https://img.shields.io/badge/KiCad-314CB0.svg
