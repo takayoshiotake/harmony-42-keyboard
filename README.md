@@ -31,6 +31,18 @@ Made with Python script: 📁 [editor](layout/editor)
 - 📄 [locations.csv](layout/locations.csv)
 - 📄 [keyboard-layout.rawdata.json](layout/keyboard-layout.rawdata.json)
 
+## BOM
+
+| Material | QTY | Note |
+|-|-:|-|
+| Harmony 42 PCB | 1 | [Schematic-and-PCB](#schematic-and-pcb) |
+| MCU 16 PCB | 1 | [Schematic-and-PCB](#schematic-and-pcb) |
+| Harmony 42 Case | 1 | PMMA CNC, [Mechanics](#mechanics) |
+| Harmony 42 Gasket | 1 | PORON 2mm, [Mechanics](#mechanics) |
+| Harmony 42 Plate | 1 | Acrylic 1.5mm, [Mechanics](#mechanics) |
+| FFC | 1 | 16 ciruits, 0.50mm pitch, Type D (opposite sides), >50mm length |
+| Screw: M2 x 4mm | 5 | |
+
 ## Schematic and PCB
 
 ![schematic svg](assets/pcb_schematic.svg)
